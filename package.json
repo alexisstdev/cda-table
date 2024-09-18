@@ -1,0 +1,19 @@
+{
+  "name": "table-cda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexisstdev/cda-table.git"
+  },
+  "author": "alexisdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexisstdev/cda-table/issues"
+  },
+  "homepage": "https://github.com/alexisstdev/cda-table#readme"
+}
